@@ -4,4 +4,4 @@ This MATLAB repository is created to provide age and sex specific 3D face models
 The files within this repository can be used with the tool box developed by Harold Matthews (harry.matthews@kuleuven.be) and by modifying the script provided in this repositiory.
 (https://github.com/harrymatthews50/3DGrowthCurves)
 
-Please feel free to email us for collaborations and to do not forget to cite us in your research.
+Please feel free to email us for collaborations and kindly cite us in your research work.
