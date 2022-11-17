@@ -5,3 +5,4 @@ The files within this repository can be used with the tool box developed by Haro
 (https://github.com/harrymatthews50/3DGrowthCurves)
 
 Please feel free to email us for collaborations and kindly cite us in your research work.
+A. Rajbhoj, H. Matthews, K. Doucet, P. Claes, G. Willems, G. Begnoni, M. Cadenas de Llano-Pérula, Age- and sex-related differences in 3D facial shape and muscle pressure in subjects with normal occlusion, Computers in Biology and Medicine, 2022, https://doi.org/10.1016/j.compbiomed.2022.106325.
